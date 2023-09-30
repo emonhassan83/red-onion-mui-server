@@ -1,0 +1,236 @@
+[
+    {
+      "title": "Eggs Benedict",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhNJW.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 38.99,
+      "description": "A classic breakfast delight, Eggs Benedict consists of perfectly poached eggs nestled on top of toasted English muffins and thinly sliced Canadian bacon. It's generously drizzled with creamy hollandaise sauce, resulting in a harmonious blend of flavors and textures."
+    },
+    {
+      "title": "Breakfast sandwich",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhULP.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 37.99,
+      "description": "A satisfying on-the-go meal, the breakfast sandwich typically features a fluffy scrambled or fried egg sandwiched between two slices of bread. It can be customized with various fillings such as bacon, sausage, cheese, and condiments like ketchup or mayonnaise."
+    },
+    {
+      "title": "Baked Chicken",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhwy1.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 28.99,
+      "description": "Baked chicken is a savory dish prepared by marinating chicken pieces with a flavorful mix of herbs and spices before baking them in the oven. This cooking method results in tender, juicy chicken with a crispy outer layer."
+    },
+    {
+      "title": "Bagel and cream cheese",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhRDL.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 33.99,
+      "description": "A simple yet beloved breakfast or snack option, a bagel is a dense, ring-shaped bread that's often toasted and smeared with creamy, tangy cream cheese. The combination is both satisfying and indulgent."
+    },
+    {
+      "title": "Full Breakfast Fried Egg Toast Brunch",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhTXx.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 26.99,
+      "description": "This hearty brunch dish combines several breakfast staples, including fried eggs, toast, and a variety of accompaniments such as bacon, sausage, baked beans, and sautéed mushrooms. It's a complete and filling morning meal."
+    },
+    {
+      "title": "Toast Croissant Fried Egg",
+      "category": "breakfast",
+      "defaultImage": "https://imgpile.com/images/DJhbEj.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 20.99,
+      "description": "A delightful breakfast option that features a buttery, flaky croissant sliced open and toasted until golden brown. It's then filled with a perfectly fried egg, creating a buttery, rich, and satisfying flavor combination."
+    },
+    {
+      "title": "Beef Steak",
+      "category": "lunch",
+      "defaultImage": "https://imgpile.com/images/DJh9lC.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 30.99,
+      "description": " A succulent beef steak is a classic dish known for its juicy, tender texture and rich, meaty flavor. Typically seared to perfection, it can be seasoned with various spices and herbs and served with sides like mashed potatoes and vegetables."
+    },
+    {
+      "title": "Honey-Soy-Glazed Salmon with Peppers",
+      "category":"lunch",
+      "defaultImage": "https://imgpile.com/images/DJhCFS.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 40.99,
+      "description": "This dish features salmon fillets glazed with a delectable combination of honey and soy sauce, creating a sweet and savory flavor profile. Peppers add a colorful and crunchy element to the meal."
+    },
+    {
+      "title": "Tarragon-Rubbed-Salmon",
+      "category":"lunch",
+      "defaultImage": "https://imgpile.com/images/DJhG78.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 33.99,
+      "description": "Tarragon-rubbed salmon is a delightful dish where salmon fillets are coated with a fragrant tarragon herb rub and then cooked to flaky perfection. It offers a fresh and aromatic taste experience."
+    },
+    {
+      "title": "Indian Lunch",
+      "category":"lunch",
+      "defaultImage": "https://imgpile.com/images/DJhtPb.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 34.99,
+      "description": "Indian lunch encompasses a wide range of flavorful dishes, often including items like curry, rice, naan bread, and various vegetarian and non-vegetarian options. The cuisine is known for its bold spices and vibrant flavors."
+    },
+    {
+      "title": "Fried Chiken Bento",
+      "category": "lunch",
+      "defaultImage": "https://imgpile.com/images/DJhxL3.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 37.99,
+      "description": "A bento box meal featuring crispy, golden-fried chicken pieces served with a variety of sides such as rice, pickled vegetables, and perhaps some tempura or sushi rolls."
+    },
+    {
+      "title": "Healthy Meal Plan",
+      "category": "lunch",
+      "defaultImage": "https://imgpile.com/images/DJhKyl.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 34.99,
+      "description": "A balanced meal plan designed to provide essential nutrients and promote well-being. It typically includes a variety of lean proteins, vegetables, whole grains, and fruits to support a nutritious diet."
+    },
+    {
+      "title": "Baked Chiken",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJhclk.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 35.99,
+      "description": "A healthier alternative to fried chicken, baked chicken involves marinating chicken pieces and then baking them in the oven. This cooking method yields tender, flavorful chicken with a crispy skin."
+    },
+    {
+      "title": "Lemonery Salmon Piccata",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJhmN4.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 22.99,
+      "description": "Salmon piccata is a zesty and tangy dish made with salmon fillets cooked in a lemony sauce with capers. It's a burst of bright flavors with a touch of brininess from the capers."
+    },
+    {
+      "title": "Garic Butter Baked Salmon",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJhrP2.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 36.99,
+      "description": "Salmon fillets are baked to perfection with a rich and savory garlic butter sauce. This dish is both indulgent and full of flavor. Classic French fries served with a generous topping of melted cheese, creating a delightful combination of crispy and gooey textures."
+    },
+    {
+      "title": "French Fries with cheese",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJhzOG.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 39.99,
+      "description": "A hearty meal featuring tender pork tenderloin paired with quinoa pilaf, a grain-based side dish often mixed with vegetables and seasonings. A refreshing and healthful dish that combines salmon with a vibrant grapefruit and lentil salad, providing a balanced mix of flavors and textures."
+    },
+    {
+      "title": "Purk Tenderloin With Quinoa Pilaf",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJh8ya.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 39.99,
+      "description": "Salmon fillets are baked to perfection with a rich and savory garlic butter sauce. This dish is both indulgent and full of flavor. Classic French fries served with a generous topping of melted cheese, creating a delightful combination of crispy and gooey textures."
+    },
+    {
+      "title": "Salmon with Grapefurit and Lentil Salad",
+      "category": "dinner",
+      "defaultImage": "https://imgpile.com/images/DJhHHh.png",
+      "images": [
+        "https://imgpile.com/images/DPNojr.png",
+        "https://imgpile.com/images/DPUVm8.png",
+        "https://imgpile.com/images/DPwD0l.png",
+        "https://imgpile.com/images/DP5TAh.png"
+      ],
+      "price": 39.99,
+      "description": "A hearty meal featuring tender pork tenderloin paired with quinoa pilaf, a grain-based side dish often mixed with vegetables and seasonings. A refreshing and healthful dish that combines salmon with a vibrant grapefruit and lentil salad, providing a balanced mix of flavors and textures."
+    }
+  ]
