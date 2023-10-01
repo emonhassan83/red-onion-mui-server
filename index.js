@@ -39,18 +39,19 @@ async function run() {
     });
 
     //get single meal
+    //Get meal By category
+    app.get("/meals/:category", async (req, res) => {
+      const { category } = req.params;
+      const meals = await mealsCollection.find({ category }).toArray();
+      res.send(meals);
+    });
+
     app.get("/meal/:id", async (req, res) => {
       const id = req.params.id;
       const query = { _id: new ObjectId(id) };
       const meal = await mealsCollection.findOne(query);
       res.send(meal);
 
-      //Get meal By category
-      app.get("/meals/:category", async (req, res) => {
-        const { category } = req.params;
-        const meals = await mealsCollection.find({ category }).toArray();
-        res.send(meals);
-      });
     });
 
     // Send a ping to confirm a successful connection
